@@ -1,8 +1,8 @@
 # tiket
 
 
-#Setting App Backend Tiket
-#env setting
+# Setting App Backend Tiket
+# env setting
 PORT=5050
 SERVICE_NAME=API SERVICE TIKET
 JWT_SECRET_KEY= You Secret
